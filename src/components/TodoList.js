@@ -1,7 +1,7 @@
 //@flow
 //import React from 'react'
 //import Component from 'component'
-import React, { Component } from 'component';
+//import React, { Component } from 'component';
 import PropTypes from 'prop-types';
 import TodoItem from './TodoItem'
 
